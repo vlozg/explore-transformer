@@ -19,7 +19,7 @@
 ---
 ## Tổ chức github
 ### Folders
-[WIP]
+- `references`: chứa các bài báo hoặc nội dung tham khảo mà các thành viên sử dụng trong quá trình làm việc (bên trong chứa folder theo tên thành viên để phân mục tiện quản lý và chia sẻ).
 
 ### Files
 [WIP]
