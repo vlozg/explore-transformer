@@ -22,7 +22,7 @@
 - `references`: chứa các bài báo hoặc nội dung tham khảo mà các thành viên sử dụng trong quá trình làm việc (bên trong chứa folder theo tên thành viên để phân mục tiện quản lý và chia sẻ).
 
 ### Files
-[WIP]
+- `MeetingReport.md`: biên bản tóm tắt nội dung họp mỗi tuần.
 
 ---
 ## Tham khảo
