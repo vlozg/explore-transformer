@@ -1,0 +1,7 @@
+https://www.youtube.com/watch?v=TQQlZhbC5ps&ab_channel=CodeEmporium
+Giới thiệu transformer.
+[Long] Giải thích đơn giản, dễ hiểu :)))
+
+https://www.unite.ai/what-are-transformer-neural-networks/
+Giải thích khác biệt giữa RNN và transformer.
+[Long] Không hữu ích lắm.

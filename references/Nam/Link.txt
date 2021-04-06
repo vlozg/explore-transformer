@@ -1,0 +1,8 @@
+https://towardsdatascience.com/illustrated-guide-to-transformers-step-by-step-explanation-f74876522bc0
+[Long] Okie, cũng khá chi tiết và dễ hiểu. Bối cảnh ở đây hơi khác là bài toán QA.
+
+https://towardsdatascience.com/attn-illustrated-attention-5ec4ad276ee3
+Giới thiệu về cơ chế attention.
+
+https://github.com/huggingface/transformers
+Nguồn tham khảo các demo cho transformer.
