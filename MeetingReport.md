@@ -1,4 +1,14 @@
 # Nội dung họp mỗi tuần
+## Tuần 2 (06/04/2021)
+Nội dung:
+- Chia sẻ hiểu biết về transformer, đảm bảo các thành viên hiểu về kiến trúc.
+- Sắp xếp công việc để cân bằng thời gian cho đồ án giữa các môn.
+
+Mục tiêu trong tuần:
+- Tìm hiểu về PyTorch.
+
+Deadline cuối tuần.
+
 ## Tuần 1 (30/03/2021)
 Nội dung:
 - Khởi động.
