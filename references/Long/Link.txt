@@ -1,2 +1,9 @@
 https://youtu.be/GTVgJhSlHEk
 Giải thích chi tiết transformer, thiên về toán.
+
+https://paperswithcode.com/paper/attention-is-not-all-you-need-for-commonsense
+Phản biện transformer
+
+http://nlp.seas.harvard.edu/2018/04/01/attention.html#:~:text=Position%2Dwise%20Feed%2DForward%20Networks,-In%20addition%20to&text=This%20consists%20of%20two%20linear%20transformations%20with%20a%20ReLU%20activation%20in%20between.&text=While%20the%20linear%20transformations%20are,convolutions%20with%20kernel%20size%201.
+Giải thích transformer một cách ngắn gọn với code
+

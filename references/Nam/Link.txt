@@ -6,3 +6,9 @@ Giới thiệu về cơ chế attention.
 
 https://github.com/huggingface/transformers
 Nguồn tham khảo các demo cho transformer.
+
+https://github.com/tunz/transformer-pytorch/blob/e7266679f0b32fd99135ea617213f986ceede056/model/transformer.py#L201
+demo cho transformer bằng pytorch
+
+https://stats.stackexchange.com/questions/421935/what-exactly-are-keys-queries-and-values-in-attention-mechanisms
+giải thích về key value và key trong cơ chế attention
